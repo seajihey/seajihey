@@ -23,10 +23,19 @@ I am a developer with a strong interest in networks, cloud computing, and DevOps
 - Award Winner, Jinju City Women’s Idea Contest
 - Encouragement Award, USG Capstone Design Project
 
-## 📽️ Side Projects
--  MELOG ( Music-related application development project )
--  ITDA( Creator Collaboration Platform )
-        : https://github.com/uooonth/itda.git
+   
+| 🎓 Univ | 📄 Description                                                                                           | 🔗 GitHub                                   |
+|-----------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| **MELOG** | 클래식 음악 감상 기록 및 공유 어플리케이션                                                                 | https://github.com/Melog-Osunji              |
+| **ITDA**  | 크리에이터 협업 플랫폼                                                                                     | https://github.com/uooonth/itda              |
+| **Codive**| 실시간 코딩 문제풀이 경쟁 플랫폼                                                                           | https://github.com/seajihey/Codive           |
+
+| 🚩 Fisa | 📄 Description                                                                                           | 🔗 GitHub                                   |
+|-----------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| **StreamAPI 성능 실험** | Java Stream 사용 시 자주 언급되는 성능 및 설계 이슈를 실제 코드와 측정 결과로 검증                 | https://github.com/seajihey/streamTest       |
+| **우리카드 데이터 분석** | 우리카드 이용 데이터를 기반으로 사용자 소비 행태를 분석하고 Elasticsearch와 Kibana로 시각화       | https://github.com/seajihey/elasticProject   |
+| **LogPipeline** | Filebeat → Logstash → Elasticsearch + RDBMS 기반 로그 수집·가공·저장 파이프라인 구축                | https://github.com/seajihey/logPipeline      |
+
 
 
 
