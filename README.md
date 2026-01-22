@@ -6,29 +6,28 @@
 
 ## 👤 Profile
 
-I am a developer with a strong interest in networks, cloud computing, and DevOps, and I enjoy studying these areas in depth.  
-I also enjoy designing clean, user-focused interfaces.
+네트워크, 클라우드 컴퓨팅, DevOps 분야에 관심이 많고 깊이 공부하는 것을 즐기는 개발자입니다. 또, 사용자 중심의 깔끔한 UI/UX 디자인에도 관심이 있습니다.
 
-- 🏫 Graduated from Gyeongsang National University  
-- 📧 **okcoco03@naver.com**  
-- ✍️ **Blog**: https://zmal.tistory.com/
+- 🏫 경상국립대학교 졸업  
+- 📧 **이메일** : okcoco03@naver.com
+- ✍️ **블로그**: https://zmal.tistory.com/
 
 ---
 
 ## 🧷 Participant
 
-- **LIKELION 11th**
-- **CJ REMOTE INTERNSHIP 5th**
-- **Woori FIS Academy 6th**
+- **LIKELION 11기**
+- **CJ올리브 네트웍스 리모트 인턴쉽 5기**
+- **우리FIS 아카데미 6**
 
 ---
 
 ## 🏆 Awards & Achievements
 
-- 🥇 Grand Prize, Software Exhibition, Gyeongsang National University  
-- 🏅 Encouragement Award, Software Exhibition, Gyeongsang National University  
-- 🏆 Award Winner, Jinju City Women’s Idea Contest  
-- 🏅 Encouragement Award, USG Capstone Design Project  
+- 🥇 경상국립대학교 소프트웨어 전시회 대상
+- 🏅 경상국립대학교 소프트웨어 전시회 장려상
+- 🏆 진주시 여성 아이디어 공모전 수상
+- 🏅 USG 캡스톤 디자인 프로젝트 장려상 
 
 ---
 
@@ -56,7 +55,7 @@ I also enjoy designing clean, user-focused interfaces.
 
 <table>
   <tr>
-    <td><strong>Collaboration</strong></td>
+    <td><strong>협업도구</strong></td>
     <td>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
       <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=FFFFFF"/>
