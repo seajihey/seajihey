@@ -45,6 +45,7 @@
 
 | 🚩 FISA | 📄 Description                                                                                           | 🔗 GitHub |
 |--------|-----------------------------------------------------------------------------------------------------------|---------|
+| **n8n기반 자동화파이프라인 ⭐** | n8n을 활용한 Rag기반 자동화 리팩토링 봇 | https://github.com/seajihey/vibecode-rag-java-refactor |
 | **StreamAPI 성능 실험** | Java Stream 사용 시 자주 언급되는 성능 및 설계 이슈를 실제 코드와 측정 결과로 검증 | https://github.com/seajihey/streamTest |
 | **우리카드 데이터 분석** | 우리카드 이용 데이터를 기반으로 사용자 소비 행태를 분석하고 Elasticsearch와 Kibana로 시각화 | https://github.com/seajihey/elasticProject |
 | **LogPipeline** | Filebeat → Logstash → Elasticsearch + RDBMS 기반 로그 수집·가공·저장 파이프라인 구축 | https://github.com/seajihey/logPipeline |
