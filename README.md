@@ -6,7 +6,8 @@
 
 ## 👤 프로필
 
-네트워크, 클라우드 컴퓨팅, DevOps 분야에 관심이 많고 깊이 공부하는 것을 즐기는 개발자입니다. 또, 사용자 중심의 깔끔한 UI/UX 디자인에도 관심이 있습니다.
+HELLO WORLD!
+이 문장을 처음 만났던 순간을 기억하고 네트워크/인프라/가상환경/웹개발에 대한 관심을 가지고 있습니다.
 
 - 🏫 경상국립대학교 졸업  
 - 📧 **이메일** : okcoco03@naver.com
@@ -30,7 +31,6 @@
 - 🏅 USG 캡스톤 디자인 프로젝트 장려상 
 
 ---
-
 ## 🎓 대학 프로젝트 
 
 | 🎓 제목 | 📄 설명                                                                                           | 🔗 GitHub |
@@ -45,6 +45,7 @@
 
 | 🚩 이름 | 📄 설명                                                                                           | 🔗 GitHub |
 |--------|-----------------------------------------------------------------------------------------------------------|---------|
+| **VMware-Lab ⭐⭐** | vmware를 활용한 가상화 환경 및 네트워크 셋팅 | https://github.com/seajihey/VMware-TeamLab |
 | **n8n기반 자동화파이프라인 ⭐** | n8n을 활용한 Rag기반 자동화 리팩토링 봇 | https://github.com/seajihey/vibecode-rag-java-refactor |
 | **StreamAPI 성능 실험** | Java Stream 사용 시 자주 언급되는 성능 및 설계 이슈를 실제 코드와 측정 결과로 검증 | https://github.com/seajihey/streamTest |
 | **우리카드 데이터 분석** | 우리카드 이용 데이터를 기반으로 사용자 소비 행태를 분석하고 Elasticsearch와 Kibana로 시각화 | https://github.com/seajihey/elasticProject |
@@ -103,13 +104,15 @@
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=FFFFFF"/>
     </td>
   </tr>
 
   <tr>
-    <td><strong>Tools</strong></td>
+    <td><strong>etc</strong></td>
     <td>
       <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=FFFFFF"/>
     </td>
 
   </tr>
