@@ -113,6 +113,7 @@ HELLO WORLD!
     <td>
       <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=FFFFFF"/>
       <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/pfsense-3776AB?style=for-the-badge&logo=pfsense&logoColor=FFFFFF"/>
     </td>
 
   </tr>
