@@ -45,9 +45,9 @@ HELLO WORLD!
 
 | 🚩 이름 | 📄 설명                                                                                           | 🔗 GitHub |
 |--------|-----------------------------------------------------------------------------------------------------------|---------|
+| **MoneyLog : 청년 맞춤형 금융 생활관리 플랫폼** | 하이브리드 클라우드 아키텍처를 적용한 고가용성 인프라 프로젝트 | https://github.com/5kstration |
 | **VMware-Lab ⭐⭐** | vmware를 활용한 가상화 환경 및 네트워크 셋팅 | https://github.com/seajihey/VMware-TeamLab |
 | **n8n기반 자동화파이프라인 ⭐** | n8n을 활용한 Rag기반 자동화 리팩토링 봇 | https://github.com/seajihey/vibecode-rag-java-refactor |
-| **StreamAPI 성능 실험** | Java Stream 사용 시 자주 언급되는 성능 및 설계 이슈를 실제 코드와 측정 결과로 검증 | https://github.com/seajihey/streamTest |
 | **우리카드 데이터 분석** | 우리카드 이용 데이터를 기반으로 사용자 소비 행태를 분석하고 Elasticsearch와 Kibana로 시각화 | https://github.com/seajihey/elasticProject |
 | **LogPipeline** | Filebeat → Logstash → Elasticsearch + RDBMS 기반 로그 수집·가공·저장 파이프라인 구축 | https://github.com/seajihey/logPipeline |
 | **About_Docker** | Docker 이미지 경량화: 느린 배포의 원인과 해결책 | https://github.com/seajihey/About_Docker |
