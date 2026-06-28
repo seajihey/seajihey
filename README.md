@@ -9,7 +9,6 @@
 HELLO WORLD!
 이 문장을 처음 만났던 순간을 기억하고 네트워크/인프라/가상환경/웹개발에 대한 관심을 가지고 있습니다.
 
-- 🏫 OO대학교 졸업  
 - 📧 **이메일** : okcoco03@naver.com
 - ✍️ **블로그**: https://zmal.tistory.com/
 
@@ -45,7 +44,7 @@ HELLO WORLD!
 
 | 🚩 이름 | 📄 설명                                                                                           | 🔗 GitHub |
 |--------|-----------------------------------------------------------------------------------------------------------|---------|
-| **MoneyLog : 청년 맞춤형 금융 생활관리 플랫폼** | 하이브리드 클라우드 아키텍처를 적용한 고가용성 인프라 프로젝트 | https://github.com/5kstration |
+| **MoneyLog ⭐⭐⭐ : 청년 맞춤형 금융 생활관리 플랫폼** | 하이브리드 클라우드 아키텍처를 적용한 고가용성 인프라 프로젝트 | https://github.com/5kstration |
 | **VMware-Lab ⭐⭐** | vmware를 활용한 가상화 환경 및 네트워크 셋팅 | https://github.com/seajihey/VMware-TeamLab |
 | **n8n기반 자동화파이프라인 ⭐** | n8n을 활용한 Rag기반 자동화 리팩토링 봇 | https://github.com/seajihey/vibecode-rag-java-refactor |
 | **우리카드 데이터 분석** | 우리카드 이용 데이터를 기반으로 사용자 소비 행태를 분석하고 Elasticsearch와 Kibana로 시각화 | https://github.com/seajihey/elasticProject |
